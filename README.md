@@ -12,3 +12,7 @@ Neki purpose
 ## Deployment
 Evo i ovde nesto
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Trainig
